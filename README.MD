@@ -13,7 +13,7 @@ After slipping past Guild security, your cargo hold is stock full of diamonds.  
 <h3>Play Online (Full Screen Mode)</h3>
 https://diamond-raider.herokuapp.com/index.html
 
-<h3>Play on your Local Computer</h3>
+<h3>Play on your Local Computer (desktop  / laptop)</h3>
 
 <ol>
   
